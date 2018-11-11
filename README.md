@@ -10,6 +10,9 @@ Sending Morse code with microbit!
 * "Send" and "Receive" mode.
 * Written by Microsoft JavaScript Blocks Editor, which is easy to understand for beginners.
 
+## Install
+* Just simply drag and drop [microbit-MoseCode.hex](/microbit-MoseCode.hex) into microbit.
+
 ## Known bugs
 * If microbit receive the message while showing animation, the animation will be interrupt.
 
@@ -18,4 +21,4 @@ Sending Morse code with microbit!
 * Much faster "Sending" animation.
 * Python version is comming!
 
-It is nice to let me know when you catch a bug:)
+It is nice to let me know when you catch a bug :)
