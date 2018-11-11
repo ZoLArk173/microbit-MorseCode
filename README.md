@@ -18,4 +18,4 @@ Sending Morse code with microbit!
 * Much faster "Sending" animation.
 * Python version is comming!
 
-It is nice to let me know when you got a bug:)
+It is nice to let me know when you catch a bug:)
